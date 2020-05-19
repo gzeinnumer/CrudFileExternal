@@ -1,0 +1,2 @@
+rootProject.name='Crud File External'
+include ':app'
